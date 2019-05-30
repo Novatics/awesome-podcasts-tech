@@ -21,6 +21,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Pizza de Dados](https://pizzadedados.com/)
 - [Lovelace Podcast](https://twitter.com/LovelacePodcast)
 - [Quebradev](https://quebradev.com.br/)
+- [Data Hackers](https://datahackers.com.br/podcast)
 - [TecnoCast](https://tecnoblog.net/categoria/podcast/)
 - [Capycast](http://ideia.me/capycast)
 - [Like a Boss](https://www.likeaboss.com.br/)
