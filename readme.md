@@ -2,12 +2,9 @@
 
 > This list has awesome podcasts to listen in Portuguese, about technology such as programming languages, database, methodologies and community!
 
-
 ## Contents
 
 - [Tech](#tech)
-- [Others](#others)
-
 
 ## Tech
 
@@ -18,16 +15,16 @@ About this section. Optional. Keep this short and focus on the list.
 - [Nerdtech](https://jovemnerd.com.br/playlist/nerdtech/)
 - [Dev Na Estrada](https://devnaestrada.com.br/)
 - [Castálio Podcast](https://castalio.info/)
-
-## Others
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Lambda3](https://www.lambda3.com.br/)
+- [Carreira sem Fronteiras](https://www.carreirasemfronteiras.com.br/)
+- [Podprogramar](https://mundopodcast.com.br/podprogramar/)
+- [GDG Casts](https://soundcloud.com/gdg-casts)
+- [Grok Podcast](https://www.grokpodcast.com.br/)
+- [Pizza de Dados](https://pizzadedados.com/)
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
