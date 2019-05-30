@@ -1,6 +1,6 @@
 # podcast-tech [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Awesome List of Podcast Tech
+> This list has awesome podcasts to listen in Portuguese, about technology such as programming languages, database, methodologies and community!
 
 
 ## Contents
@@ -13,9 +13,11 @@
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [Hipsters ponto Tech](https://www.youtube.com/channel/UC1DrB2LTgVBGiZdgaOrzMCg/featured)
+- [Cabeça de Lab](http://www.cabecadelab.com.br/)
+- [Nerdtech](https://jovemnerd.com.br/playlist/nerdtech/)
+- [Dev Na Estrada](https://devnaestrada.com.br/)
+- [Castálio Podcast](https://castalio.info/)
 
 ## Others
 
