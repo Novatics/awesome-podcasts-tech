@@ -31,6 +31,13 @@ About this section. Optional. Keep this short and focus on the list.
 - [Guia Prático](https://manualdousuario.net/podcast/)
 - [Loop Matinal](http://loopmatinal.libsyn.com/)
 - [PODebug](http://www.podebug.com/)
+- [Segurança Legal](https://www.segurancalegal.com/)
+- [Cafeína Compilada](https://soundcloud.com/cafeinacompilada)
+- [Prodcast - Concrete Solutions](https://soundcloud.com/concretebr)
+- [10Deploys](https://www.10deploys.com/)
+- [Hack'n'cast](https://hackncast.org/)
+- [Seginfocast](https://soundcloud.com/seginfocast)
+- [DatabaseCast](http://databasecast.com.br/)
 
 ## Contribute
 
